@@ -2,6 +2,8 @@
 
 React Native App built using Expo, Firebase and React Native Gifted Chat
 
+https://user-images.githubusercontent.com/66278954/236198340-ff7d57c6-9ab5-452f-a187-c875bd4eb073.mp4
+
 ## How to clone
 
 Clone the repo
@@ -25,6 +27,7 @@ const firebaseConfig = {
   appId: Constants.manifest.extra.appId,
   databaseURL: Constants.manifest.extra.databaseURL
 };
+
 ```
 
 Run the project
