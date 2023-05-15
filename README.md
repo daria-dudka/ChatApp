@@ -8,12 +8,12 @@ https://user-images.githubusercontent.com/66278954/236198340-ff7d57c6-9ab5-452f-
 
 Clone the repo
 ```
-git clone https://github.com/betomoedano/ChatApp.git
+git clone https://github.com/daria-dudka/ChatApp.git
 ```
 
-cd into the just created project and install dependencies with yarn
+cd into the just created project and install dependencies with npm
 ```
-cd ChatApp && yarn
+cd ChatApp && npm i
 ```
 
 Add your firebase backend config in the `firebase.js` file
