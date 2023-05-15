@@ -4,33 +4,14 @@ React Native App built using Expo, Firebase and React Native Gifted Chat
 
 https://user-images.githubusercontent.com/66278954/236198340-ff7d57c6-9ab5-452f-a187-c875bd4eb073.mp4
 
-## How to clone
 
-Clone the repo
-```
-git clone https://github.com/daria-dudka/ChatApp.git
-```
+## Install & Execute
 
-cd into the just created project and install dependencies with npm
-```
-cd ChatApp && npm i
-```
+1. Clone the repo;
+2. Open the cloned repo;
+3. Run `npm i` to install the dependecies;
+4. Run `npm start` or `expo start` to start the app;
 
-Add your firebase backend config in the `firebase.js` file
-```
-const firebaseConfig = {
-  apiKey: Constants.manifest.extra.apiKey,
-  authDomain: Constants.manifest.extra.authDomain,
-  projectId: Constants.manifest.extra.projectId,
-  storageBucket: Constants.manifest.extra.storageBucket,
-  messagingSenderId: Constants.manifest.extra.messagingSenderId,
-  appId: Constants.manifest.extra.appId,
-  databaseURL: Constants.manifest.extra.databaseURL
-};
+## Open the App on your phone
 
-```
-
-Run the project
-```
-expo start
-```
+Download Expo Go from the Google Play Store or the Apple App Store. Open the [Chat App Link](expo.dev/@daria.dudka/ChatApp) on your comuter. Open the default "Camera" app on your phone and scan the QR code you see
