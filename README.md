@@ -14,4 +14,4 @@ https://user-images.githubusercontent.com/66278954/236198340-ff7d57c6-9ab5-452f-
 
 ## Open the App on your phone
 
-Download Expo Go from the Google Play Store or the Apple App Store. Open the [Chat App Link](expo.dev/@daria.dudka/ChatApp) on your comuter. Open the default "Camera" app on your phone and scan the QR code you see
+Download Expo Go from the Google Play Store or the Apple App Store. Open the Chat App Link (expo.dev/@daria.dudka/ChatApp) on your computer. Open the default "Camera" app on your phone and scan the QR code you see
