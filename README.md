@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/66278954/236198340-ff7d57c6-9ab5-452f-
 
 1. Clone the repo;
 2. Open the cloned repo;
-3. Run `npm i` to install the dependecies;
+3. Run `npm i` to install the dependencies;
 4. Run `npm start` or `expo start` to start the app;
 
 ## Open the App on your phone
