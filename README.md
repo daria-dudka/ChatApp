@@ -1,6 +1,6 @@
 #  Chat App using React Native Expo and Firebase
 
-React Native App built using Expo, Firebase and React Native Gifted Chat
+React Native App built using Expo, Firebase and React Native Gifted Chat. Allows the user to SignUp/Login and chat with other registered users.
 
 https://user-images.githubusercontent.com/66278954/236198340-ff7d57c6-9ab5-452f-a187-c875bd4eb073.mp4
 
